@@ -57,7 +57,7 @@ export default function Navbar() {
       </nav>
       {/* // second navbar */}
       <nav className="bg-red-500 relative -mt-5 max-w-screen-2xl mx-auto text-white
-       border-gray-200 dark:bg-gray-900 ">
+       border-gray-200 ">
         <div className="flex flex-wrap justify-between items-center mx-auto p-5 px-10">
             <div className="flex gap-5">
           <a href="https://flowbite.com" className="flex items-center gap-1">
